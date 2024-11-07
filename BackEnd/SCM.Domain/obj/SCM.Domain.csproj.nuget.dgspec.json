@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\upia9\\Desktop\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj": {}
+    "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\upia9\\Desktop\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj": {
+    "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\upia9\\Desktop\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj",
+        "projectUniqueName": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj",
         "projectName": "SCM.Domain",
-        "projectPath": "C:\\Users\\upia9\\Desktop\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj",
+        "projectPath": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\BackEnd\\SCM.Domain\\SCM.Domain.csproj",
         "packagesPath": "C:\\Users\\upia9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\upia9\\Desktop\\SCM\\BackEnd\\SCM.Domain\\obj\\",
+        "outputPath": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\BackEnd\\SCM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\upia9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,18 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ErikEJ.EntityFrameworkCore.SqlServer.DateOnlyTimeOnly": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

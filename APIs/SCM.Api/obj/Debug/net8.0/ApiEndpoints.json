@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SCM.Api.Controllers.HomeController",
+    "Method": "Get",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

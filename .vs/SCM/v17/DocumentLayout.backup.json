@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\SCM\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|c:\\github\\joseupiaitla\\curso c# avanzado\\scm\\apis\\scm.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|solutionrelative:apis\\scm.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|c:\\github\\joseupiaitla\\curso c# avanzado\\scm\\apis\\scm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|solutionrelative:apis\\scm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|c:\\github\\joseupiaitla\\curso c# avanzado\\scm\\apis\\scm.api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|solutionrelative:apis\\scm.api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|c:\\github\\joseupiaitla\\curso c# avanzado\\scm\\apis\\scm.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1732D201-106C-4144-8524-7208F57F9CF3}|APIs\\SCM.Api\\SCM.Api.csproj|solutionrelative:apis\\scm.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 893,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +39,62 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "APIs\\SCM.Api\\appsettings.Local.json",
+              "ToolTip": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\appsettings.Local.json",
+              "RelativeToolTip": "APIs\\SCM.Api\\appsettings.Local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T01:48:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIs\\SCM.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\appsettings.Development.json",
+              "RelativeToolTip": "APIs\\SCM.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T01:48:18.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "APIs\\SCM.Api\\appsettings.json",
+              "ToolTip": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\appsettings.json",
+              "RelativeToolTip": "APIs\\SCM.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T01:48:11.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "APIs\\SCM.Api\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\GitHub\\JoseUpiaITLA\\Curso C# Avanzado\\SCM\\APIs\\SCM.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "APIs\\SCM.Api\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:46:44.353Z",
+              "EditorCaption": ""
             }
           ]
         },

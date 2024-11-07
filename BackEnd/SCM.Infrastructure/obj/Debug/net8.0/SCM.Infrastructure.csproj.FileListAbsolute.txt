@@ -1,0 +1,16 @@
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\bin\Debug\net8.0\SCM.Infrastructure.deps.json
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\bin\Debug\net8.0\SCM.Infrastructure.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\bin\Debug\net8.0\SCM.Infrastructure.pdb
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\bin\Debug\net8.0\SCM.Domain.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\bin\Debug\net8.0\SCM.Domain.pdb
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.csproj.AssemblyReference.cache
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.AssemblyInfoInputs.cache
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.AssemblyInfo.cs
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.sourcelink.json
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infr.D7AF75CE.Up2Date
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\refint\SCM.Infrastructure.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\SCM.Infrastructure.pdb
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Infrastructure\obj\Debug\net8.0\ref\SCM.Infrastructure.dll
