@@ -1,0 +1,14 @@
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\bin\Debug\net8.0\SCM.Domain.deps.json
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\bin\Debug\net8.0\SCM.Domain.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\bin\Debug\net8.0\SCM.Domain.pdb
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.csproj.AssemblyReference.cache
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.AssemblyInfoInputs.cache
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.AssemblyInfo.cs
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\EFCoreSqlServerDateOnlyTimeOnly.cs
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.sourcelink.json
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\refint\SCM.Domain.dll
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\SCM.Domain.pdb
+C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\obj\Debug\net8.0\ref\SCM.Domain.dll

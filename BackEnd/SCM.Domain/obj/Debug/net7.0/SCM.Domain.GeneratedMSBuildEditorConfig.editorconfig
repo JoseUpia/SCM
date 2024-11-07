@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SCM.Domain
-build_property.ProjectDir = C:\Users\upia9\Desktop\SCM\BackEnd\SCM.Domain\
+build_property.ProjectDir = C:\GitHub\JoseUpiaITLA\Curso C# Avanzado\SCM\BackEnd\SCM.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
