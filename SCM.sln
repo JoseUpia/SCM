@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SCM.Api", "APIs\SCM.Api\SCM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SCM.Domain", "BackEnd\SCM.Domain\SCM.Domain.csproj", "{48A7525B-D3B0-4166-A49D-E07DE56322A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCM.Infrastructure", "BackEnd\SCM.Infrastructure\SCM.Infrastructure.csproj", "{317D9FF2-3644-4A6B-9C0A-18F83F083634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SCM.Infrastructure", "BackEnd\SCM.Infrastructure\SCM.Infrastructure.csproj", "{317D9FF2-3644-4A6B-9C0A-18F83F083634}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{31F4626E-644B-4BF7-BEC7-BC84E1EA02A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{07667A91-10CF-4E74-9543-3317B9CE51A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

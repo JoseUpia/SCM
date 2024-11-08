@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SCM.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fda1a1e371f46285470648ba0201ed8e14d48c2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7338a43142669648c5b9d7ef39871f57fa9880")]
 [assembly: System.Reflection.AssemblyProductAttribute("SCM.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SCM.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
